@@ -1,0 +1,21 @@
+Tema : Aplicativo de localização de eventos e bares disponiveis
+
+
+Principal recurso para começo do aplicativo/software:
+*localização de eventos e bares abertos
+
+o que sistema precisa fazer para atingir o objetivo principal:
+*cadastrar bares,eventos - 2 -> de 5hr
+*cadastrar horario de abertura e fechamento do evento -1 ->3hr
+*realizar valor de entrada,restrição. -1 ->2hr
+*descição de modelagem do evento(ex:tema sertanejo,musica ao vivo e entre outros) -1 ->2hr
+*Caso bar,se ha taxa de entrada(ex:musica ao vivo) ou se entrada gratuita. -3 ->3hr
+*lista de convidados em tempo real com confirmação por QR pelo celular do convidados - 5 ->10hr
+*Avaliação do organizador do evento ou do bar - 3 ->5hr
+*feedback liberado para convidados que foram confirmado apos fechamento de evento ou bar. -2 ->4hr
+*oferecimento de cardapio de descrição alimenticia ao publico - 3 ->7hr
+*controle de realização de entrada no evento ou bar - 2 -> de 5 a 10 hr
+*Caso limite estourado do bar ou evento ocultar localizção -3 -> de 4 a 8hr
+
+grau de complexibilidade( 1 a 5 )
+Horas totais: Aproximadamento 59hrs totais
